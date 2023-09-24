@@ -477,4 +477,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Rider
-.idea/
+.idea/  
+
+LambdaSource/
